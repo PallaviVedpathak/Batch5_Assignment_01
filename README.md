@@ -1,1 +1,1 @@
-# Harman Java Training Assignment 01
+# Java Training Assignments
